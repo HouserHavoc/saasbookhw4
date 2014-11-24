@@ -34,5 +34,3 @@
       When  I follow "Find Movies With Same Director"
       Then  I should be on the home page
       And   I should see "'Alien' has no director info"
-
-clone this paste
