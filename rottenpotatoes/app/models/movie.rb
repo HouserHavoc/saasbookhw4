@@ -10,4 +10,3 @@ class Movie < ActiveRecord::Base
   	Movie.where(:director => director)
   end
 end
-
